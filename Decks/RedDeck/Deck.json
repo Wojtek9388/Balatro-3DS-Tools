@@ -1,0 +1,387 @@
+{
+    "Deck": {
+        "Name": "Red deck",
+        "Description": "Gives a extra discard every round",
+        "Variables": {
+            "Discards": 3,
+            "Hands": 4,
+            "Cash": 4,
+            "JokerSlots": 5,
+            "ConsumableSlots": 2
+        },
+        "Cards": {
+            "Hearts": [
+                {
+                    "Value": "Ace",
+                    "Edition": "Default",
+                    "Seal": "Red",
+                    "Sticker": "Eternal",
+                    "Enhancements": "Stone"
+                },
+                {
+                    "Value": "King",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "Queen",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "Jack",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "10",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "9",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "8",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "7",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "6",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "5",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "4",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "3",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "2",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                }
+            ],
+            "Diamonds": [
+                {
+                    "Value": "Ace",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "King",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "Queen",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "Jack",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "10",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "9",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "8",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "7",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "6",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "5",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "4",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "3",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "2",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                }
+            ],
+            "Clubs": [
+                {
+                    "Value": "Ace",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "King",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "Queen",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "Jack",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "10",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "9",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "8",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "7",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "6",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "5",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "4",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "3",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "2",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                }
+            ],
+            "Spades": [
+                {
+                    "Value": "Ace",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "King",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "Queen",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "Jack",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "10",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "9",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "8",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "7",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "6",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "5",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "4",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "3",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                },
+                {
+                    "Value": "2",
+                    "Edition": "Default",
+                    "Seal": "None",
+                    "Sticker": "None",
+                    "Enhancements": "None"
+                }
+            ]
+        }
+    }
+}
